@@ -1,2 +1,2 @@
 # Trabalho-1-Seguranca-Computacional
-Projeto cifra de Vigenère
+Basta compilar e rodar o executavel
