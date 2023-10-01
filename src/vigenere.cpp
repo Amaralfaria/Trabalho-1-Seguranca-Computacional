@@ -354,5 +354,3 @@ int main(){
 
     return 0;
 }
-
-string msg = "Na tranquila cidade de Oaksville, o sol se punha lentamente no horizonte, tingindo o céu com tons de laranja e rosa. As crianças brincavam no parque, rindo e correndo enquanto os adultos aproveitavam a calma do final de tarde. O aroma de comida caseira pairava no ar, anunciando um jantar reconfortante.Enquanto isso, na biblioteca local, um grupo de leitores ávidos se reunia para discutir o último livro do autor best-seller. As páginas viravam freneticamente, revelando segredos entrelaçados em tramas emocionantes.No centro da cidade, uma pequena loja de antiguidades exibia tesouros de tempos passados, despertando a curiosidade dos visitantes. E ao longo do rio sereno que cortava a cidade, os patos nadavam graciosamente, criando círculos na água.Oaksville era um refúgio de tranquilidade e beleza, onde a vida seguia seu ritmo suave, proporcionando a seus habitantes e visitantes um merecido descanso da agitação do mundo moderno.";
